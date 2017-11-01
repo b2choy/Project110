@@ -1,1 +1,1 @@
-[![Build Status](https://travis-ci.org/b2choy/gittest.svg?branch=master)](https://travis-ci.org/b2choy/gittest)
+[![Build Status](https://travis-ci.org/b2choy/Project110.svg?branch=master)](https://travis-ci.org/b2choy/Project110)
